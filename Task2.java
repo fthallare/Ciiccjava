@@ -7,7 +7,7 @@ public class Task2 {
         boolean bool = true;
         char c = 'H';
 
-
+        
         String result = "" + c + num + count + " w" + i + "r1d " + f + " " + bool;
 
         System.out.println(result);

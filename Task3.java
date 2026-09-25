@@ -1,7 +1,7 @@
 public class Task3{
 
 public static void main  (String[] args ){
-    String a = "Wow";
+String a = "Wow";
 String b = "Wow";
 String c = new String("Nope");
 String d = new String("Wow!");

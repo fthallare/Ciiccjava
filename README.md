@@ -10,7 +10,7 @@ A brief description of what this project does and who it's for
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Java, C++ 
+Javascript, HTML, CSS, Java, C++ , PHP (Codeigniter)
 
 
 ## Badges
